@@ -1,0 +1,121 @@
+.glavn1{
+	background: #FFFFFF;
+
+	min-height: 1000px;
+	color: #fff;
+	padding-top: 10px;
+}
+.glavnshapka{
+	background: #411E45;
+	min-height: 70px;
+	
+	padding-top: 10px;
+
+}
+.news{
+	font-size: 50px;
+	margin-top: 15px;
+	color: #DCFDF4;
+	width: 100px;
+
+}
+.bloc{
+	
+	background: #fff;
+	min-height: 100px;
+	width: 500px;
+	margin-top: 10px;
+
+	padding: 30px;
+	color: #411E45;
+	webkit-box-shadow:1px 1px 5px rgba(8,0,9,0.8);
+	-moz-box-shadow:1px 1px 5px rgba(8,0,9,0.8);
+	-ms-box-shadow:1px 1px 5px rgba(8,0,9,0.8);
+	-o-box-shadow:1px 1px 5px rgba(8,0,9,0.8);
+	box-shadow:1px 1px 5px rgba(8,0,9,0.8);
+}
+.bloc:hover{
+	-webkit-box-shadow   :   1px 7px 10px rgba(8,0,9,0.8);
+	-moz-box-shadow      :   1px 7px 10px rgba(8,0,9,0.8);
+	-ms-box-shadow:1px 7px 10px rgba(8,0,9,0.8);
+	-o-box-shadow:1px 7px 10px rgba(8,0,9,0.8);
+	 box-shadow:1px 1px 10px rgba(8,0,9,0.8);
+	
+}
+.bloc a{
+	color:#693171;
+	
+}
+.carousel_news{
+	margin-top: 5px;
+	width:1000px;
+	
+}
+.img{
+	
+}
+.bloc_view{
+	
+	background: #fff;
+	min-height: 100px;
+	width: 800px;
+	margin-top: 10px;
+	padding: 30px;
+	color: #411E45;
+	webkit-box-shadow:1px 1px 5px rgba(8,0,9,0.8);
+	-moz-box-shadow:1px 1px 5px rgba(8,0,9,0.8);
+	-ms-box-shadow:1px 1px 5px rgba(8,0,9,0.8);
+	-o-box-shadow:1px 1px 5px rgba(8,0,9,0.8);
+	box-shadow:1px 1px 5px rgba(8,0,9,0.8);
+}
+.glavnshapka a{
+	float: right;
+	margin-right: 50px;
+	margin-bottom: ;
+
+}
+/*admin*/
+.glavnAdmin{
+	margin: auto; 
+	background: #F0F0F0;
+	min-height: 1000px;
+	width: 1500px;
+	padding-top: 20px
+}
+.Panel{
+	color:#D9D9D9;
+	font-size: 25px;
+	margin-bottom: 50px;
+}
+.admin_col{
+	height: 1000px;
+	background: #232323;
+	
+	padding: 20px;
+}
+
+.bg{background: #777;
+
+}
+
+.panel_news{
+	float: left;
+	
+}
+
+.add_news{
+	float: right;
+	
+	
+	
+
+}
+.admin_col2{
+	height: 1000px;
+
+}
+.panel_news1{
+	background: #3D3D4C;
+	margin-top: 100px;
+	color: #dedede;
+}
